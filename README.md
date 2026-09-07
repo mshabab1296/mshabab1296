@@ -55,13 +55,15 @@ Currently, I work on a **Warehouse Management System (WMS)**, where I design and
 
 ## 🚀 Featured Projects
 
-> 🚧 Currently building production-grade backend projects to showcase architecture, code quality, and engineering best practices.
+### [TimeTracker](https://github.com/mshabab1296/time-tracker) — In development
 
-Upcoming repositories include:
+Building an organization-based time-tracking application for teams,
+with planned support for projects, tags, timers, and timesheet reporting.
 
-- **Go Backend Blueprint** – Production-ready Go microservice template
-- **System Designs** – Scalable backend architecture case studies
-- **Go Interview Notes** – Practical notes on Go, concurrency, and distributed systems
+**Stack:** Go · PostgreSQL · React · TypeScript · Docker
+
+Initial development phases are pushed, with ongoing work on backend
+architecture and core workflows.
 
 ---
 
